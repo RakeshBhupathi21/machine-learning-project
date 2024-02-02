@@ -1,7 +1,7 @@
 **Flower Image Classification Project**
 
 **Overview**
-This project focuses on the classification of flower images using machine learning techniques. The primary goal is to develop an accurate and robust model that can identify different types of flowers based on their visual features. The project utilizes deep learning and convolutional neural networks (CNNs) to achieve high-quality predictions.
+This project focuses on the classification of flower images using machine-learning techniques. The primary goal is to develop an accurate and robust model that can identify different types of flowers based on their visual features. The project utilizes deep learning and convolutional neural networks (CNNs) to achieve high-quality predictions.
 
 **Features**
 
